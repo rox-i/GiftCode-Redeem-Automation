@@ -1,7 +1,7 @@
-# KingShot Player IDs
-# Format: PlayerID  OptionalName
-# Lines starting with # are ignored
-
-8767319   SgtSlayer
-1234567   WarriorKing
-9876543   DragonSlayer
+186774379  Gopi
+185201792  Diane
+188281654  Ammy
+187560792  SpotSteal
+185185261  Star
+184726325  Mamba
+187937591  Cap
