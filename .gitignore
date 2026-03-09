@@ -1,0 +1,19 @@
+# Personal data — never commit these
+playerIDs.txt
+seen_codes.json
+
+# Auto-generated folders
+logs/
+screenshots/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db

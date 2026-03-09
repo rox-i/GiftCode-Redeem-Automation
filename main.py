@@ -5,7 +5,7 @@ Polls kingshot.net/api/gift-codes every 15 minutes.
 When a NEW code is detected, automatically redeems it
 for every player in playerIDs.txt.
 
-Author: Built on top of SgtSlayer's original script
+Author: Built by Gopi
 """
 
 import time
